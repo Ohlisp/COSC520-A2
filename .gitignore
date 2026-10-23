@@ -1,0 +1,14 @@
+*.csv
+*.txt
+*.png
+__pycache__/
+.vscode
+.venv/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+results/
+data/
+/.direnv/
+build/
+*.egg-info/
